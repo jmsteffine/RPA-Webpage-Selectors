@@ -1,0 +1,6 @@
+09/15/2020 09:57:09 => [Debug] Execution started for file: Main
+09/15/2020 09:57:10 => [Info] Webpage Selectors execution started
+09/15/2020 09:57:11 => [Info] Page 1 Selector: This is text one - page 1
+09/15/2020 09:57:14 => [Info] Page 2 Selector: This is text two - page 2
+09/15/2020 09:57:17 => [Info] Page 3 Selector: This is text three - page 3
+09/15/2020 09:57:19 => [Info] Webpage Selectors execution ended in: 00:00:09
